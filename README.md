@@ -5,15 +5,15 @@
 
 ## Software Engineer. ☕ 
 
-- 🌱 Currently into open-source development
-- 👯 Working on 3 projects right now
-- 🥅 2024 Goals: To solve 1500 DSA problems
-- ⚡ Fun fact: I have been a professional artist
+- 🌱 Deep into exploring the world of quantitative development  
+- 🛠️ Currently working on 3 diverse projects  
+- 🎯 2024 Mission: Conquer 1000+ DSA problems  
+- ⚡ Fun fact: I’m a huge fan of solving complex puzzles and brainteasers!
 
 ## ✨ Technical Tools: 
 
 ### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=cpp,c,js,ts,java,dart,python)](https://skillicons.dev) <br/>
+[![Languages](https://skillicons.dev/icons?i=cpp,c,js,ts,java,python)](https://skillicons.dev) <br/>
 ### Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=react,next,tailwind,materialui,html,css,bootstrap)](https://skillicons.dev)
 ### Backend Development
@@ -21,15 +21,15 @@
 ### Databases
 [![Backend](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
 ### Other
-[![Other](https://skillicons.dev/icons?i=vscode,git,github,bash,figma)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=vscode,git,github,bash)](https://skillicons.dev)
 
 ## 📊 GitHub
-[![Yogit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeyyy&show_icons=true&theme=vision-friendly-dark)](https://github.com/yogeyyy/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yogeyyy&theme=vision-friendly-dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeyyy&layout=compact&theme=vision-friendly-dark)
+[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishq8311&show_icons=true&theme=vision-friendly-dark)](https://github.com/tanishq8311/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tanishq8311&theme=vision-friendly-dark&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq8311&layout=compact&theme=vision-friendly-dark)
 
 ## 🏆️ Github Trophies: 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yogeyyy&theme=onestar)](https://github.com/yogeyyy/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanishq8311&theme=onestar)](https://github.com/tanishq8311/github-profile-trophy)
 
 
 ## 🙌 Connect with me:
