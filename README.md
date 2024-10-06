@@ -35,10 +35,11 @@
 ## 🙌 Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Yogit's Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yogit's LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yogit's Instagram" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yogitnainani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yogit's Codeforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coffeebarista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yogit's Leetcode" height="30" width="40" /></a><br>
-<a href="https://www.yogitnainani.tech/" target="blank">portfolio</a>
+<a href="https://twitter.com/tanishq8311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tanishq's Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gtanishq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanishq's LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/t.a.n.i.s.h.q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tanishq's Instagram" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sumaamsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Tanishq's Leetcode" height="30" width="40" /></a><br>
+<a href="https://www.tanishqgupta.tech/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" alt="Tanishq's Portfolio" />
+</a>
 </p>
