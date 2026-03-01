@@ -7,7 +7,6 @@
 
 - 🌱 Deep into exploring the world of quantitative development  
 - 🛠️ Currently working on 3 diverse projects  
-- 🎯 2024 Mission: Conquer 1000+ DSA problems  
 - ⚡ Fun fact: I’m a huge fan of solving complex puzzles and brainteasers!
 
 ## ✨ Technical Tools: 
